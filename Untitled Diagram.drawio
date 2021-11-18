@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T15:36:05.863Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="gmON4btRUmrRYDpcq_zW" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-18T16:31:22.611Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="RMTw2yc2neCxf6GLJO_g" version="15.7.3" type="github">
   <diagram id="R_S1KoIDnYjyLVSejnZ4" name="Page-1">
-    <mxGraphModel dx="2067" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1848" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1250,8 +1250,8 @@
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1023" value="DangKi(danhsachtkmk) ex VongQuay" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1030" width="180" height="300" as="geometry" />
+        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1023" value="DangKi(danhsachtkmk) " style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="1030" width="180" height="300" as="geometry" />
         </mxCell>
         <mxCell id="_g9MzopD_IZ-p9ufCg1U-1024" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_g9MzopD_IZ-p9ufCg1U-1023">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -1357,8 +1357,8 @@
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1048" value="VongQuay ex skKhuyenMai" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="775" width="180" height="240" as="geometry" />
+        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1048" value="VongQuay " style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="385" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="_g9MzopD_IZ-p9ufCg1U-1049" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_g9MzopD_IZ-p9ufCg1U-1048">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -1438,14 +1438,14 @@
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1067" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="_g9MzopD_IZ-p9ufCg1U-1048" target="_g9MzopD_IZ-p9ufCg1U-1023">
+        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1067" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.655;exitY=0.118;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_g9MzopD_IZ-p9ufCg1U-1079" target="_g9MzopD_IZ-p9ufCg1U-1097">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-220" y="950" as="sourcePoint" />
+            <mxPoint x="-350" y="1050" as="sourcePoint" />
             <mxPoint x="-170" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1068" value="skKhuyenMai ex CongCu" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="775" width="180" height="150" as="geometry" />
+        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1068" value="skKhuyenMai ex VongQuay" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="690" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="_g9MzopD_IZ-p9ufCg1U-1069" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_g9MzopD_IZ-p9ufCg1U-1068">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -1486,14 +1486,14 @@
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1078" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="_g9MzopD_IZ-p9ufCg1U-1068" target="_g9MzopD_IZ-p9ufCg1U-1048">
+        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1078" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="_g9MzopD_IZ-p9ufCg1U-1048" target="_g9MzopD_IZ-p9ufCg1U-1068">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-520" y="850" as="sourcePoint" />
+            <mxPoint x="-560" y="670" as="sourcePoint" />
             <mxPoint x="-460" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1079" value="CongCu ex DSDT" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="540" width="180" height="210" as="geometry" />
+        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1079" value="HoaDon ex skKhuyenMai" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="985" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="_g9MzopD_IZ-p9ufCg1U-1080" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_g9MzopD_IZ-p9ufCg1U-1079">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -1560,19 +1560,13 @@
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1095" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_g9MzopD_IZ-p9ufCg1U-1079" target="_g9MzopD_IZ-p9ufCg1U-912">
+        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1096" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="_g9MzopD_IZ-p9ufCg1U-1068" target="_g9MzopD_IZ-p9ufCg1U-1079">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-470" y="620" as="sourcePoint" />
-            <mxPoint x="-470" y="600" as="targetPoint" />
+            <mxPoint x="-520" y="910" as="sourcePoint" />
+            <mxPoint x="-350" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1096" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="_g9MzopD_IZ-p9ufCg1U-1092" target="_g9MzopD_IZ-p9ufCg1U-1075">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-520" y="750" as="sourcePoint" />
-            <mxPoint x="-470" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1097" value="DangNhap ex DangKi" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="_g9MzopD_IZ-p9ufCg1U-1097" value="DangNhap ex HoaDon" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="1380" width="180" height="270" as="geometry" />
         </mxCell>
         <mxCell id="_g9MzopD_IZ-p9ufCg1U-1098" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_g9MzopD_IZ-p9ufCg1U-1097">
